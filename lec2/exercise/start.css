@@ -1,21 +1,36 @@
 #one {
-  width: 60px;
-  height: 60px;
+  width: 90px;
+  height: 90px;
   margin-top: 50px;
+  border-width: 10px;
+  border-color: red;
+  border-style: solid;
   background-color: blue;
 }
+
 #two {
-  width: 60px;
-  height: 60px;
+  width: 300px;
+  height: 300px;
+  border-width: 10px;
+  border-color: black;
+  border-style: solid;
   background-color: green;
 }
+
 #three {
-  width: 60px;
-  height: 60px;
+  width: 90px;
+  height: 90px;
+  border-width: 10px;
+  border-color: blue;
+  border-style: solid;
+  margin-top: 70px;
   background-color: red;
 }
+
 #four {
-  width: 60px;
-  height: 60px;
+  width: 90px;
+  height: 90px;
+  margin-left: 70px;
+
   background-color: pink;
 }
